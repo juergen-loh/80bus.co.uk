@@ -1,0 +1,280 @@
+/* Default layout information */
+
+
+body, p, td, th, div, blockquote, dl, ul, ol
+{
+	font-family: Arial, Verdana, sans-serif, enron-beelzebub;
+	background-color: #FFFF80;
+	color: #000000;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: bold;
+	font-variant: normal;
+	margin: 20px;
+}
+
+
+.titleBar
+{
+	border-collapse:collapse;
+	font-size:16pt;
+	font:bold;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+.smallText
+{
+	border-collapse:collapse;
+	font-size:8pt;
+	font-style: bold;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+.table404
+{
+	border-collapse:collapse;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+.optionTable
+{
+	border-collapse:separate;
+	border-spacing: 0px;
+	font-size:16pt;
+	font:bold;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+.optionTable th
+{
+	border-collapse:collapse;
+	font-size:16pt;
+	font:bold;
+}
+
+.optionTable tr
+{
+	border: 1px solid #aaaaaa;
+}
+
+.optionTable td
+{
+	border: 1px solid #aaaaaa;
+	font-size:12pt;
+	padding: 1px 1px 1px 1px;
+	vertical-align:middle;
+	width: 150px;
+	height: 80px;
+	background-color: #80FF80;
+}
+
+.centerTitle
+{
+	border-collapse:collapse;
+	font-size:16pt;
+	font:bold;
+	color: #800000;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+#table1 table
+{
+	margin-left:80px; 
+}
+
+.news1
+{
+	border-collapse:collapse;
+	font-size:16pt;
+	font:bold;
+	color: #800000;
+	margin-left:100px; 
+	margin-right:100px;
+}
+
+.news2
+{
+	border-collapse:collapse;
+	font-size:12pt;
+	font:bold;
+	color: #000000;
+	margin-left:100px; 
+	margin-right:100px;
+}
+
+.center
+{
+	border-collapse:collapse;
+	font-size:16pt;
+	font:bold;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+
+.news3
+{
+	font-size:14pt;
+	font:bold;
+	color: #00CC00;
+	margin-left:100px; 
+	margin-right:100px;
+}
+
+.list1
+{
+	font-size:12pt;
+	font:bold;
+	margin-left:100px; 
+	margin-right:100px;
+}
+
+.a:link    { color: #0000FF; }
+.a:visited { color: #FF00FF; }
+.a:hover   { color: #00CC00; }
+.a:active  { color: #FF0000; }
+
+
+
+form
+{
+	border: 0px;
+	padding: 3px 6px 3px 6px
+}
+
+input
+{
+	colour: #FF008B;
+	background-color: #E3F2F7;
+	border: 2px outset #FF8080;
+}
+
+fieldset
+{
+	border: 1px solid #FF8080;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+legend
+{
+	font-family: Arial, Verdana, sans-serif, enron-beelzebub;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 14px;
+	font-weight: bold;
+	font-variant: normal;
+	vertical-align: baseline;
+}
+
+img 
+{ 
+	border: 0px outset #FF8080;
+}
+
+table
+{
+	table-layout: auto;
+}
+
+h1,h2,h3 
+{
+	font-family: Arial, Verdana, sans-serif;
+}
+
+
+
+/* Tag specific stuff */
+/* Tag specific stuff */
+/* Tag specific stuff */
+
+
+
+#textarea404
+{
+	background-color: #000000;
+	font-family: Courier,monospace;
+	font-size:12pt;
+	font-weight: bold;
+	color: #00ff00;
+}
+
+#sensible
+{
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+	font-size:12pt;
+}
+
+#forSale h1
+{
+	border-collapse:collapse;
+	font-size:16pt;
+	font:bold;
+	color: #800000;
+	text-align:center;
+}
+
+#forSale table
+{
+	border-collapse:collapse;
+	font-size:16pt;
+	font:bold;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+#forSale th
+{
+	border-collapse:collapse;
+	font-size:16pt;
+	font:bold;
+}
+
+#forSale p
+{
+	border-collapse:collapse;
+	font-size:12pt;
+	font:bold;
+	color: #000000;
+	margin-left:100px; 
+	margin-right:100px;
+}
+
+.description
+{
+	border: 1px solid #aaaaaa;
+	font-size:12pt;
+	padding: 2px 4px 2px 4px;
+	vertical-align:middle;
+	width: 500px;
+	height: 30px;
+	background-color: #80FF80;
+}
+
+.price
+{
+	border: 1px solid #aaaaaa;
+	font-size:12pt;
+	padding: 2px 4px 2px 4px;
+	vertical-align:middle;
+	width: 150px;
+	height: 30px;
+	background-color: #80FF80;
+}
