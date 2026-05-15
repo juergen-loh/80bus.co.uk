@@ -19,7 +19,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 {
 	border-collapse:collapse;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 	text-align:center;
 	margin-left:auto; 
 	margin-right:auto;
@@ -29,7 +29,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 {
 	border-collapse:collapse;
 	font-size:8pt;
-	font-style: bold;
+	font-weight: bold;
 	text-align:center;
 	margin-left:auto; 
 	margin-right:auto;
@@ -48,7 +48,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 	border-collapse:separate;
 	border-spacing: 0px;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 	text-align:center;
 	margin-left:auto; 
 	margin-right:auto;
@@ -58,7 +58,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 {
 	border-collapse:collapse;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 }
 
 .optionTable tr
@@ -81,7 +81,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 {
 	border-collapse:collapse;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 	color: #800000;
 	text-align:center;
 	margin-left:auto; 
@@ -97,7 +97,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 {
 	border-collapse:collapse;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 	color: #800000;
 	margin-left:100px; 
 	margin-right:100px;
@@ -107,7 +107,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 {
 	border-collapse:collapse;
 	font-size:12pt;
-	font:bold;
+	font-weight:bold;
 	color: #000000;
 	margin-left:100px; 
 	margin-right:100px;
@@ -117,7 +117,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 {
 	border-collapse:collapse;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 	text-align:center;
 	margin-left:auto; 
 	margin-right:auto;
@@ -127,7 +127,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 .news3
 {
 	font-size:14pt;
-	font:bold;
+	font-weight:bold;
 	color: #00CC00;
 	margin-left:100px; 
 	margin-right:100px;
@@ -136,7 +136,7 @@ body, p, td, th, div, blockquote, dl, ul, ol
 .list1
 {
 	font-size:12pt;
-	font:bold;
+	font-weight:bold;
 	margin-left:100px; 
 	margin-right:100px;
 }
@@ -156,7 +156,7 @@ form
 
 input
 {
-	colour: #FF008B;
+	color: #FF008B;
 	background-color: #E3F2F7;
 	border: 2px outset #FF8080;
 }
@@ -225,7 +225,7 @@ h1,h2,h3
 {
 	border-collapse:collapse;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 	color: #800000;
 	text-align:center;
 }
@@ -234,7 +234,7 @@ h1,h2,h3
 {
 	border-collapse:collapse;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 	text-align:center;
 	margin-left:auto; 
 	margin-right:auto;
@@ -244,14 +244,14 @@ h1,h2,h3
 {
 	border-collapse:collapse;
 	font-size:16pt;
-	font:bold;
+	font-weight:bold;
 }
 
 #forSale p
 {
 	border-collapse:collapse;
 	font-size:12pt;
-	font:bold;
+	font-weight:bold;
 	color: #000000;
 	margin-left:100px; 
 	margin-right:100px;
